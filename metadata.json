@@ -1,0 +1,6 @@
+{
+  "name": "RoadToAnimal",
+  "description": "A fitness motivation and tracking app with Samsung Health and Strava integrations to help you become a super human.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
